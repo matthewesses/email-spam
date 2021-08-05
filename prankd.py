@@ -11,8 +11,8 @@ if 1==1:
     while True:
             smtp_server = "smtp.gmail.com"
             sender_email = "getprankd888@gmail.com"  # Enter your address, must be gmail
-            receiver_email = "kbitar99@gmail.com"  # Enter receiver address, can be anything
-            password = "Pooba123"#enter your password
+            receiver_email = ""  # Enter receiver address, can be anything
+            password = ""#enter your password
             message = """Subject: prank'd 
 This is for not joining my zoom class and vibechecking my dickhead professor- matt
             Bee Movie Script - Dialogue Transcript
