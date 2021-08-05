@@ -14,7 +14,6 @@ if 1==1:
             receiver_email = ""  # Enter receiver address, can be anything
             password = ""#enter your password
             message = """Subject: prank'd 
-This is for not joining my zoom class and vibechecking my dickhead professor- matt
             Bee Movie Script - Dialogue Transcript
 
   
