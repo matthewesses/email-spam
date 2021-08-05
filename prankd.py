@@ -9,10 +9,11 @@ import smtplib, ssl
 port=465
 if 1==1:
     while True:
-            smtp_server = "smtp.gmail.com"
-            sender_email = "getprankd888@gmail.com"  # Enter your address, must be gmail
+            smtp_server = "smtp.gmail.com" #server address
+            sender_email = ""  # Enter your address, must be gmail
             receiver_email = ""  # Enter receiver address, can be anything
             password = ""#enter your password
+            #first line is for subject, everything after is just bad 
             message = """Subject: prank'd 
             Bee Movie Script - Dialogue Transcript
 
